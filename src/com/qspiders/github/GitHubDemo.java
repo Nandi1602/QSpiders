@@ -14,6 +14,7 @@ public class GitHubDemo {
 	public void testB()
 	{
 		Reporter.log("running testB method");
+		Reporter.log("running testB method");
 	}
 	
 }

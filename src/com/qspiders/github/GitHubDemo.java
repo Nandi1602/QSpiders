@@ -9,6 +9,7 @@ public class GitHubDemo {
 	public void testA()
 	{
 		Reporter.log("running testA method");
+		Reporter.log("running testA method2");
 		
 		
 	}

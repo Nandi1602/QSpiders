@@ -9,14 +9,14 @@ public class GitHubDemo {
 	public void testA()
 	{
 		Reporter.log("running testA method");
-		Reporter.log("running testA method");
+		
 		
 	}
 	@Test
 	public void testB()
 	{
 		Reporter.log("running testB method");
-		Reporter.log("running testB method");
+		
 	}
 	
 }

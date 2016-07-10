@@ -10,6 +10,7 @@ public class GitHubDemo {
 	{
 		Reporter.log("running testA method");
 		Reporter.log("running testA method");
+		Reporter.log("running testC method");
 	}
 	@Test
 	public void testB()
